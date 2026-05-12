@@ -28,7 +28,7 @@ with target companies like JPMorgan Chase, American Express, EY, Deloitte, KPMG,
 
 * SQL
 * Python
-* Excel VBA (Basic)
+* Advanced Excel
 
 ### Data Visualization
 
