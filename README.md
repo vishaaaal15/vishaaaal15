@@ -95,7 +95,7 @@ To work in a high-impact analytics role where I can apply SQL, business intellig
 
 GitHub: https://github.com/vishaaaal15
 
-LinkedIn:https://vishal-singhdataanalyst
+LinkedIn:https://www.linkedin.com/in/vishal-singhdataanalyst
 
 Email: vshalsngh17@gmail.com
 
