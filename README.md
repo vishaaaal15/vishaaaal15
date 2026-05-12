@@ -1,99 +1,106 @@
-# Hi, I'm Vishal Singh 
+# Hi there, I'm Vishal Singh 👋
 
-## Data Analyst | Business Intelligence | SQL | Power BI | Excel | Python | Tableau
+## Junior Data Analyst | Banking Analytics | Business Intelligence | SQL | Power BI | Tableau | Excel
 
-I am a results-driven aspiring Data Analyst with strong expertise in transforming raw data into strategic business insights. I specialize in building impactful dashboards, solving business problems, and supporting data-driven decision-making using analytics.
+I am a passionate Data Analyst focused on solving real-world business problems using data-driven decision making, analytics, and dashboard development.
 
-My focus is on creating real-world business solutions through:
+My expertise includes SQL, Python, Power BI, Tableau, Excel, and business intelligence reporting with strong interest in Banking Analytics, Financial Analysis, Risk Analytics, and Business Strategy.
 
-* Data Analysis
-* Business Intelligence
-* Dashboard Development
-* KPI Reporting
-* Data Visualization
-* SQL Query Optimization
-* Business Performance Tracking
-* Revenue Analysis
-* Forecasting & Trend Analysis
+I build end-to-end analytics projects that help organizations improve decision-making, identify business opportunities, reduce operational risks, and drive measurable business impact.
 
-I am actively seeking opportunities across:
+Currently focused on creating high-quality portfolio projects for roles in:
 
-* Startups
-* Mid-size Companies
-* Product-Based Companies
-* Big 4 Firms
-* Consulting Firms
-* MNCs
+* Data Analyst
+* Business Analyst
+* Banking Analyst
+* Financial Analyst
+* Risk Analyst
+* MIS Analyst
+* Credit Risk Analyst
+
+with target companies like JPMorgan Chase, American Express, EY, Deloitte, KPMG, PwC, Goldman Sachs, and other leading financial institutions.
 
 ---
 
-## Technical Skills
+## Skills & Tools
 
-### Analytics & BI
+### Programming & Querying
+
+* SQL
+* Python
+* Excel VBA (Basic)
+
+### Data Visualization
 
 * Power BI
 * Tableau
 * Microsoft Excel
-* Google Sheets
-* KPI Dashboarding
-* Business Reporting
-* Data Visualization
 
-### Database & Querying
+### Analytics & Reporting
 
-* SQL
-* MySQL
-* PostgreSQL
+* Business Intelligence
+* Dashboard Development
+* KPI Reporting
+* Financial Analytics
+* Banking Analytics
+* Credit Risk Analysis
+* MIS Reporting
 * Data Cleaning
 * Data Validation
-* Data Modeling
+* Business Insights Generation
 
-### Programming
+### Soft Skills
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Exploratory Data Analysis (EDA)
-
-### Business & Strategy
-
-* Business Analysis
-* Requirement Gathering
-* Stakeholder Reporting
 * Problem Solving
-* Decision-Making Support
-* Performance Optimization
+* Analytical Thinking
+* Business Communication
+* Stakeholder Reporting
+* Decision Support
 
 ---
 
 ## Featured Projects
 
-### Hospitality Management Analysis Dashboard
+### Executive Loan Default Risk Analysis Dashboard
 
-Revenue optimization, booking trends, occupancy insights, customer segmentation, and hotel performance tracking dashboard.
+Built an end-to-end banking analytics dashboard using SQL, Python, Power BI, Tableau, and Excel to identify high-risk borrowers, improve lending decisions, and reduce default risk.
 
 ### Stock Market Analysis Dashboard
 
-Market trend analysis, stock performance insights, investment tracking, financial KPIs, and risk-performance dashboard.
+Developed a financial analytics dashboard to analyze stock performance, investor behavior, market movement, and investment decision-making using Power BI and SQL.
 
-### E-Commerce Sales Dashboard Analysis
+### Hospitality Management Analytics Dashboard
 
-Customer behavior analysis, sales trends, product performance, revenue optimization, and business growth insights dashboard.
+Created a hospitality analytics solution to monitor revenue performance, customer satisfaction, operational KPIs, and hotel business intelligence reporting.
+
+### E-Commerce Sales Analysis Dashboard
+
+Designed an e-commerce dashboard to analyze sales performance, customer behavior, product trends, and revenue optimization using data analytics.
+
+---
+
+## GitHub Stats
+
+Focused on building real-world business analytics projects with recruiter-level portfolio quality and practical use cases aligned with industry expectations.
 
 ---
 
 ## Career Objective
 
-To contribute as a high-impact Data Analyst by helping organizations improve decision-making, optimize operations, and drive business growth using data-backed strategies.
+To work in a high-impact analytics role where I can apply SQL, business intelligence, and data-driven problem-solving to improve strategic decisions and business performance in banking, consulting, and financial services organizations.
 
 ---
 
-## Let's Connect
-
-LinkedIn:https://www.linkedin.com/in/vishal-singhdataanalyst
+## Connect With Me
 
 GitHub: https://github.com/vishaaaal15
 
+LinkedIn:https://vishal-singhdataanalyst
+
 Email: vshalsngh17@gmail.com
+
+---
+
+## Resume Headline
+
+Junior Data Analyst | Banking Analytics | SQL | Power BI | Tableau | Excel | Transforming Data into Business Decisions
