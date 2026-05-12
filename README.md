@@ -100,7 +100,3 @@ LinkedIn:https://www.linkedin.com/in/vishal-singhdataanalyst
 Email: vshalsngh17@gmail.com
 
 ---
-
-## Resume Headline
-
-Junior Data Analyst | Banking Analytics | SQL | Power BI | Tableau | Excel | Transforming Data into Business Decisions
