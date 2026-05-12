@@ -1,5 +1,4 @@
-# Hi there, I'm Vishal Singh 👋
-
+# Hi there, I'm Vishal Singh 
 ## Junior Data Analyst | Banking Analytics | Business Intelligence | SQL | Power BI | Tableau | Excel
 
 I am a passionate Data Analyst focused on solving real-world business problems using data-driven decision making, analytics, and dashboard development.
