@@ -1,102 +1,134 @@
-# Hi there, I'm Vishal Singh 
-## Data Analyst 
-## Banking Analytics | Campaign Analytics | Business Intelligence | SQL | Power BI | Tableau | Excel | Python
+```md
+<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
+<h3 align="center">Aspiring Data Analyst | Business Intelligence Enthusiast | Banking & Financial Analytics</h3>
 
-I am a passionate Data Analyst focused on solving real-world business problems using data-driven decision making, analytics, and dashboard development.
-
-My expertise includes SQL, Python, Power BI, Tableau, Excel, and business intelligence reporting with strong interest in Banking Analytics, Financial Analysis, Risk Analytics, and Business Strategy.
-
-I build end-to-end analytics projects that help organizations improve decision-making, identify business opportunities, reduce operational risks, and drive measurable business impact.
-
-Currently focused on creating high-quality portfolio projects for roles in:
-
-* Data Analyst
-* Business Analyst
-* Banking Analyst
-* Financial Analyst
-* Risk Analyst
-* MIS Analyst
-* Credit Risk Analyst
-
-with target companies like JPMorgan Chase, American Express, EY, Deloitte, KPMG, PwC, Goldman Sachs, and other leading financial institutions.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Excel;Business+Intelligence+%26+Financial+Analytics;Building+Enterprise-Level+Analytics+Projects" />
+</p>
 
 ---
 
-## Skills & Tools
+# 🚀 About Me
 
-### Programming & Querying
-
-* SQL
-* Python
-* Advanced Excel
-
-### Data Visualization
-
-* Power BI
-* Tableau
-* Microsoft Excel
-
-### Analytics & Reporting
-
-* Business Intelligence
-* Dashboard Development
-* KPI Reporting
-* Financial Analytics
-* Banking Analytics
-* Credit Risk Analysis
-* MIS Reporting
-* Data Cleaning
-* Data Validation
-* Business Insights Generation
-
-### Soft Skills
-
-* Problem Solving
-* Analytical Thinking
-* Business Communication
-* Stakeholder Reporting
-* Decision Support
+- 📊 Passionate about transforming raw data into actionable business insights
+- 💼 Focused on Banking, Financial, Risk & Marketing Analytics
+- 📈 Skilled in SQL, Power BI, Excel, DAX & Dashboard Development
+- 🔍 Interested in Business Intelligence, KPI Monitoring & Reporting Automation
+- 🌱 Currently building enterprise-style analytics portfolio projects
+- 🎯 Targeting Data Analyst & Business Analyst roles in BFSI and Consulting domains
 
 ---
 
-## Featured Projects
+# 🛠️ Tech Stack
 
-### Executive Loan Default Risk Analysis Dashboard
+<p align="center">
 
-Built an end-to-end banking analytics dashboard using SQL, Python, Power BI, Tableau, and Excel to identify high-risk borrowers, improve lending decisions, and reduce default risk.
+<img src="https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi">
+<img src="https://img.shields.io/badge/Excel-Reporting-green?style=for-the-badge&logo=microsoftexcel">
+<img src="https://img.shields.io/badge/DAX-KPI-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Visualization-Business%20Insights-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Business%20Analytics-Enterprise-blueviolet?style=for-the-badge">
 
-### Stock Market Analysis Dashboard
-
-Developed a financial analytics dashboard to analyze stock performance, investor behavior, market movement, and investment decision-making using Power BI and SQL.
-
-### Hospitality Management Analytics Dashboard
-
-Created a hospitality analytics solution to monitor revenue performance, customer satisfaction, operational KPIs, and hotel business intelligence reporting.
-
-### E-Commerce Sales Analysis Dashboard
-
-Designed an e-commerce dashboard to analyze sales performance, customer behavior, product trends, and revenue optimization using data analytics.
+</p>
 
 ---
 
-## GitHub Stats
+# 📌 Featured Projects
 
-Focused on building real-world business analytics projects with recruiter-level portfolio quality and practical use cases aligned with industry expectations.
+## 🏦 Banking Transaction Risk & Financial Reporting System
+
+- Built an enterprise-level banking analytics dashboard using SQL & Power BI
+- Analyzed 50K+ transaction records for operational and financial insights
+- Improved KPI visibility and reporting efficiency through interactive dashboards
+- Focused on transaction monitoring, fraud-risk visibility & executive reporting
+
+🔗 Repository:
+https://github.com/vishaaaal15/Banking-Transaction-Risk-Financial-Reporting-System
+
+---
+
+## 📈 Campaign Performance Analytics Dashboard
+
+- Developed marketing analytics dashboards to track ROI & conversion trends
+- Performed customer segmentation & engagement analysis
+- Built KPI-driven executive reporting dashboards
+
+🔗 Repository:
+https://github.com/vishaaaal15/Campaign Performance Analytics Dashboard
 
 ---
 
-## Career Objective
+## 🏨 Hospitality Analysis Dashboard
 
-To work in a high-impact analytics role where I can apply SQL, business intelligence, and data-driven problem-solving to improve strategic decisions and business performance in banking, consulting, and financial services organizations.
+- Analyzed occupancy trends, customer satisfaction & revenue performance
+- Created executive dashboards for operational monitoring
+- Identified seasonal demand and booking insights
+
+🔗 Repository:
+https://github.com/vishaaaal15/Hospitality-Analysis-Dashboard
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishaaaal15&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaaaal15&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## Connect With Me
+# 📈 Contribution Graph
 
-GitHub: https://github.com/vishaaaal15
-
-LinkedIn:https://www.linkedin.com/in/vishal-singhdataanalyst
-
-Email: vshalsngh17@gmail.com
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaaaal15&theme=tokyo-night"/>
+</p>
 
 ---
+
+# 🏆 Impact Highlights
+
+✅ Reduced manual reporting effort by 35% through dashboard automation  
+✅ Improved KPI monitoring efficiency by 40% using centralized analytics dashboards  
+✅ Built business-focused analytics projects aligned with banking & financial domains  
+✅ Created executive-level dashboards for decision-making visibility  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/vishaaaal15">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# 💡 Recruiter Focus Areas
+
+✔ Banking Analytics  
+✔ Financial Reporting  
+✔ KPI Dashboards  
+✔ Business Intelligence  
+✔ SQL Analytics  
+✔ Power BI Reporting  
+✔ Risk Analytics  
+✔ Executive Dashboarding  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishaaaal15&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
+</p>
+```
