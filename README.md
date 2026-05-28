@@ -1,134 +1,112 @@
-```md
-<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
-<h3 align="center">Aspiring Data Analyst | Business Intelligence Enthusiast | Banking & Financial Analytics</h3>
+# Vishal Singh
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Excel;Business+Intelligence+%26+Financial+Analytics;Building+Enterprise-Level+Analytics+Projects" />
-</p>
+**Data Analyst | Business Intelligence | Banking & Financial Analytics**
 
----
+I specialize in building business-focused analytics solutions using SQL, Power BI, Excel, and data visualization techniques to transform raw data into actionable business insights.
 
-# 🚀 About Me
+My work focuses on:
 
-- 📊 Passionate about transforming raw data into actionable business insights
-- 💼 Focused on Banking, Financial, Risk & Marketing Analytics
-- 📈 Skilled in SQL, Power BI, Excel, DAX & Dashboard Development
-- 🔍 Interested in Business Intelligence, KPI Monitoring & Reporting Automation
-- 🌱 Currently building enterprise-style analytics portfolio projects
-- 🎯 Targeting Data Analyst & Business Analyst roles in BFSI and Consulting domains
+* Banking & Financial Analytics
+* Risk & Transaction Monitoring
+* KPI Reporting & Dashboarding
+* Business Intelligence Solutions
+* Executive Reporting & Decision Support
 
 ---
 
-# 🛠️ Tech Stack
+## Technical Skills
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi">
-<img src="https://img.shields.io/badge/Excel-Reporting-green?style=for-the-badge&logo=microsoftexcel">
-<img src="https://img.shields.io/badge/DAX-KPI-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Visualization-Business%20Insights-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Business%20Analytics-Enterprise-blueviolet?style=for-the-badge">
-
-</p>
+| Category         | Skills                                       |
+| ---------------- | -------------------------------------------- |
+| Analytics        | SQL, Power BI, Excel, DAX                    |
+| Visualization    | KPI Dashboards, Executive Reporting          |
+| Business Domains | Banking, Finance, Marketing Analytics        |
+| Data Handling    | Data Cleaning, Transformation, Analysis      |
+| Reporting        | Business Intelligence, Operational Reporting |
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
-## 🏦 Banking Transaction Risk & Financial Reporting System
+## Banking Transaction Risk & Financial Reporting System
 
-- Built an enterprise-level banking analytics dashboard using SQL & Power BI
-- Analyzed 50K+ transaction records for operational and financial insights
-- Improved KPI visibility and reporting efficiency through interactive dashboards
-- Focused on transaction monitoring, fraud-risk visibility & executive reporting
+Enterprise-level banking analytics project designed to monitor transaction activity, identify high-risk patterns, and improve financial reporting visibility through interactive dashboards.
 
-🔗 Repository:
+### Key Highlights
+
+* Analyzed 50K+ transaction records
+* Improved KPI visibility using centralized dashboards
+* Reduced manual reporting effort through reporting automation
+* Built executive-level risk monitoring dashboards
+
+**Tech Stack:** SQL, Power BI, Excel, DAX
+
+Repository:
 https://github.com/vishaaaal15/Banking-Transaction-Risk-Financial-Reporting-System
 
 ---
 
-## 📈 Campaign Performance Analytics Dashboard
+## Campaign Performance Analytics Dashboard
 
-- Developed marketing analytics dashboards to track ROI & conversion trends
-- Performed customer segmentation & engagement analysis
-- Built KPI-driven executive reporting dashboards
+Marketing analytics solution focused on campaign ROI tracking, customer engagement analysis, and conversion performance monitoring.
 
-🔗 Repository:
-https://github.com/vishaaaal15/Campaign Performance Analytics Dashboard
+### Key Highlights
+
+* Built KPI-driven marketing dashboards
+* Improved campaign performance visibility
+* Developed customer segmentation insights
+* Created executive reporting views
+
+**Tech Stack:** SQL, Power BI, Excel
 
 ---
 
-## 🏨 Hospitality Analysis Dashboard
+## Hospitality Analysis Dashboard
 
-- Analyzed occupancy trends, customer satisfaction & revenue performance
-- Created executive dashboards for operational monitoring
-- Identified seasonal demand and booking insights
+Business intelligence dashboard focused on occupancy analysis, revenue tracking, customer satisfaction monitoring, and operational insights.
 
-🔗 Repository:
+### Key Highlights
+
+* Identified seasonal revenue trends
+* Built operational KPI dashboards
+* Improved visibility into hospitality performance metrics
+
+**Tech Stack:** Power BI, SQL, Excel
+
+Repository:
 https://github.com/vishaaaal15/Hospitality-Analysis-Dashboard
 
 ---
 
-# 📊 GitHub Stats
+# Professional Focus
 
-<p align="center">
+* Business Intelligence
+* Financial Reporting
+* KPI Analytics
+* Risk Analytics
+* Dashboard Development
+* Banking Analytics
+* Executive Reporting
+* Data-Driven Decision Making
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishaaaal15&show_icons=true&theme=tokyonight"/>
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaaaal15&layout=compact&theme=tokyonight"/>
+# GitHub Statistics
 
+<p align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vishaaaal15&show_icons=true&theme=default"/>
+</p>
+
+<p align="left">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaaaal15&layout=compact&theme=default"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# Connect
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaaaal15&theme=tokyo-night"/>
-</p>
+GitHub:
+https://github.com/vishaaaal15
 
----
-
-# 🏆 Impact Highlights
-
-✅ Reduced manual reporting effort by 35% through dashboard automation  
-✅ Improved KPI monitoring efficiency by 40% using centralized analytics dashboards  
-✅ Built business-focused analytics projects aligned with banking & financial domains  
-✅ Created executive-level dashboards for decision-making visibility  
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/vishaaaal15">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-# 💡 Recruiter Focus Areas
-
-✔ Banking Analytics  
-✔ Financial Reporting  
-✔ KPI Dashboards  
-✔ Business Intelligence  
-✔ SQL Analytics  
-✔ Power BI Reporting  
-✔ Risk Analytics  
-✔ Executive Dashboarding  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishaaaal15&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
-</p>
-```
+LinkedIn:
+https://www.linkedin.com/
