@@ -1,4 +1,4 @@
-# Hi, I'm Vishal Singh 👋
+# Hi, I'm Vishal Singh 
 
 <h3 align="center">Data Analyst | Business Intelligence Analyst | Power BI Developer</h3>
 
