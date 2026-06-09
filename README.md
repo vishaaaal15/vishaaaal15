@@ -1,247 +1,115 @@
-# Hi, I'm Vishal Singh 
-
-<h3 align="center">Data Analyst | Business Intelligence Analyst | Power BI Developer</h3>
-
-<p align="center">
-Transforming raw data into business insights through Power BI, SQL, Excel, and Python.
-</p>
-
----
+<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
+<h3 align="center">Data Analyst | SQL • Power BI • Python • Excel</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Python-Programming-green?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Excel-Dashboarding-darkgreen?style=for-the-badge&logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=for-the-badge&logo=tableau" />
+Transforming data into actionable business insights through analytics, visualization, and storytelling.
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-I am a Data Analyst passionate about solving real-world business problems using data analytics, business intelligence, and visualization tools.
-
-My expertise lies in:
-
-* 📊 Power BI Dashboard Development
-* 📈 Business Intelligence & KPI Reporting
-* 🧠 Customer Churn & Retention Analytics
-* 💳 Banking & Financial Analytics
-* 📉 Marketing & Campaign Analytics
-* 🗄 SQL Data Analysis & Query Optimization
-* 🐍 Python Data Analysis
-* 📌 Executive-Level Dashboard Storytelling
-
-I enjoy building analytics solutions that help organizations make data-driven business decisions.
+- 📊 Aspiring **Data Analyst** passionate about solving real business problems through data.
+- 📈 Experienced in building **interactive dashboards**, uncovering insights, and supporting data-driven decisions.
+- 🏦 Interested in **Risk Analytics, Financial Analytics, Customer Analytics, and Business Intelligence**.
+- 🌱 Continuously improving my skills in **SQL, Power BI, Python, and analytical problem-solving**.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Technical Skills
 
-## 📊 Analytics & BI Tools
+### Data Analysis & BI
+- SQL
+- Power BI
+- Python
+- Excel
 
-<p>
-<img src="https://skillicons.dev/icons?i=tableau" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-</p>
+### Python Libraries
+- Pandas
+- NumPy
+- Matplotlib
 
----
+### Database & Querying
+- MySQL
+- Data Cleaning
+- Exploratory Data Analysis
+- KPI Reporting
 
-## 🗄 Databases & Query Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
----
-
-## 🐍 Programming & Data Analysis
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-Libraries & Concepts:
-
-* Pandas
-* NumPy
-* Matplotlib
-* Data Cleaning
-* Data Transformation
-* Data Modeling
-* ETL
+### Visualization
+- Interactive Dashboards
+- Executive Reporting
+- Business Storytelling
 
 ---
 
-# 📌 Featured Analytics Projects
+# 🚀 Featured Projects
 
-## 📊 Banking Transaction Risk & Financial Reporting System
+## 1. Executive Loan Default Risk Analysis Dashboard
+**Tools:** Power BI • SQL • Python
 
-### 🔹 Business Problem
+- Developed an executive dashboard to monitor loan portfolio performance and default trends.
+- Identified borrower segments associated with elevated default risk.
+- Delivered insights supporting proactive risk management and lending decisions.
 
-Designed a banking analytics solution to monitor transaction risks, financial reporting KPIs, and operational performance metrics.
-
-### 🔹 Key Highlights
-
-* Executive KPI dashboard
-* Risk transaction analysis
-* Financial trend reporting
-* Branch-level performance tracking
-* Interactive Power BI reporting
-
-### 🔹 Tools Used
-
-Power BI | SQL | Excel | DAX
+🔗 Repository: https://github.com/vishaaaal15/Executive-Loan-Default-Risk-Analysis-Dashboard
 
 ---
 
-## 📉 Telecom Customer Churn & Retention Analytics
+## 2. Banking Transaction Risk & Financial Reporting System
+**Tools:** Power BI • SQL • Python
 
-### 🔹 Business Problem
+- Analyzed banking transactions to uncover patterns associated with financial risk exposure.
+- Built executive dashboards tracking key risk and reporting KPIs.
+- Supported improved monitoring through data-driven reporting frameworks.
 
-Analyzed telecom customer churn behavior to identify retention opportunities and high-risk customer segments.
-
-### 🔹 Key Highlights
-
-* Churn analysis dashboard
-* Customer service call impact analysis
-* State-wise churn tracking
-* International plan analysis
-* Executive KPI cards
-
-### 🔹 Tools Used
-
-Power BI | Excel | SQL | DAX
+🔗 Repository: https://github.com/vishaaaal15/Banking-Transaction-Risk-Financial-Reporting-System
 
 ---
 
-## 🏨 Hospitality Analysis Dashboard
+## 3. Marketing Campaign Analytics Dashboard
+**Tools:** Power BI • SQL • Python
 
-### 🔹 Business Problem
+- Evaluated campaign performance across channels using conversion and engagement metrics.
+- Identified opportunities for budget optimization and performance improvement.
+- Enabled data-driven marketing decision-making through interactive dashboards.
 
-Developed a hospitality analytics dashboard to monitor occupancy, customer behavior, and operational performance.
-
-### 🔹 Key Highlights
-
-* Hotel performance tracking
-* Revenue insights
-* Customer analytics
-* Occupancy analysis
-* Interactive executive dashboard
-
-### 🔹 Tools Used
-
-Power BI | Excel | SQL
+🔗 Repository: https://github.com/vishaaaal15/Marketing-Campaign-Analytics-Dashboard
 
 ---
 
-## 📣 Marketing Campaign Analytics Dashboard
+## 4. Telecom Customer Churn Analytics
+**Tools:** Power BI • SQL • Python
 
-### 🔹 Business Problem
+- Analyzed customer behavior to identify factors influencing churn.
+- Developed dashboards tracking retention KPIs and customer segments.
+- Delivered recommendations aimed at improving customer retention.
 
-Created a campaign performance dashboard to evaluate conversion metrics, ROI, and customer engagement.
-
-### 🔹 Key Highlights
-
-* Campaign ROI analysis
-* Conversion funnel tracking
-* Customer segmentation
-* Marketing KPI reporting
-* Interactive slicers & filters
-
-### 🔹 Tools Used
-
-Power BI | SQL | Excel
+🔗 Repository: https://github.com/vishaaaal15/Telecom-Customer-Churn-analytics
 
 ---
 
-# 📈 Core Analytics Skills
+## 📌 What I Bring
 
-✔ Data Visualization
-✔ Dashboard Development
-✔ Business Intelligence
-✔ KPI Reporting
-✔ Customer Analytics
-✔ Churn Analysis
-✔ Financial Analytics
-✔ Marketing Analytics
-✔ SQL Query Writing
-✔ DAX Calculations
-✔ Data Cleaning
-✔ Data Storytelling
-✔ ETL Processes
-✔ Reporting Automation
+✔ Business-focused analytical thinking
+
+✔ End-to-end dashboard development
+
+✔ Executive reporting capabilities
+
+✔ Cross-domain experience in finance, marketing, telecom, and hospitality
+
+✔ Strong foundation in SQL, Power BI, and Python
 
 ---
 
-# 📊 GitHub Statistics
+## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaaaal15&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaaaal15&theme=tokyonight" height="180" />
-</p>
-
----
-
-# 🏆 Professional Goals
-
-* Build enterprise-level analytics dashboards
-* Solve business problems using data
-* Develop advanced BI solutions
-* Expand expertise in machine learning & predictive analytics
-* Contribute to data-driven decision-making environments
-
----
-
-# 📚 Currently Learning
-
-* Advanced DAX & Power BI Optimization
-* Predictive Analytics
-* Machine Learning for Business Analytics
-* Advanced SQL Query Optimization
-* Data Engineering Concepts
-
----
-
-# 🌟 What Makes My Projects Different
-
-✅ Business-focused dashboards
-✅ Executive-level KPI reporting
-✅ Real-world analytics use cases
-✅ Professional storytelling dashboards
-✅ Interactive reporting systems
-✅ Recruiter-friendly project presentation
-
----
-
-# 📫 Connect With Me
-
-<p>
-<a href="https://github.com/vishaaaal15">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
-
----
-
-# 💡 Profile Vision
-
-This GitHub profile showcases my journey in transforming data into actionable business insights through analytics, dashboarding, and business intelligence solutions.
-
-I focus on building projects that resemble real corporate analytics environments and executive reporting systems.
+- 💼 LinkedIn: [https://linkedin.com/vishal-singhdataanalyst]
+- 📧 Email: [vshalsngh17@gmail.com]
+- 💻 GitHub: https://github.com/vishaaaal15
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider following my profile and exploring my repositories.
+⭐ Turning data into decisions, one dashboard at a time.
 </p>
