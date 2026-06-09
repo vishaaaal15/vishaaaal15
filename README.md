@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
+<h1 align="center">Hi , I'm Vishal Singh</h1>
 <h3 align="center">Data Analyst | SQL • Power BI • Python • Excel</h3>
 
 <p align="center">
