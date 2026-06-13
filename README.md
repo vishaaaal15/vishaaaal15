@@ -1,4 +1,4 @@
-# Hi, I'm Vishal Singh 👋
+# Hi, I'm Vishal Singh 
 
 ## Data Analyst | Banking Analytics | Risk Analytics | Business Intelligence
 
