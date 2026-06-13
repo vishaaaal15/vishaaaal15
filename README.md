@@ -95,7 +95,7 @@ I build end-to-end analytics solutions that transform raw data into actionable b
 
 ---
 
-### 🛡️ [Enterprise Data Quality & Governance Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Data-Quality-Governance-Intelligence)
+### 🛡️ [Enterprise Data Quality & Governance Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Data-Quality-Governance-Intelligence-Platform)
 
 - Assessed 1M+ enterprise records across multiple business domains.
 - Developed 30+ SQL validation frameworks for data quality monitoring.
