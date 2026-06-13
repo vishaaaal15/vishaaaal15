@@ -53,7 +53,7 @@ I build end-to-end analytics solutions that transform raw data into actionable b
 
 ## Featured Projects
 
-### 🏦 [Enterprise Credit Risk & Loan Portfolio Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Credit-Risk-Loan-Portfolio-Intelligence)
+### 🏦 [Enterprise Credit Risk & Loan Portfolio Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Credit-Risk-Loan-Portfolio-Intelligence-Platform)
 
 - Analyzed 100,000+ customer loan records across retail lending portfolios.
 - Evaluated ₹850M+ loan exposure to identify portfolio concentration risks.
