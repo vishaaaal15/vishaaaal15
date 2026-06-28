@@ -1,5 +1,5 @@
 # Hi, I'm Vishal Singh 
-
+![Vishal Singh - Risk Analyst](vishal_github_banner.png)
 ## Data Analyst | Banking Analytics | Risk Analytics | Business Intelligence
 
 Passionate Data Analyst with hands-on experience in SQL, Python, Power BI, Tableau, and Excel, specializing in Banking Analytics, Customer Intelligence, Risk Analytics, and Business Intelligence.
