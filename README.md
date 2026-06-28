@@ -1,6 +1,10 @@
-# Hi, I'm Vishal Singh 
 ![Vishal Singh - Risk Analyst](vishal_github_banner.png)
 ## Data Analyst | Banking Analytics | Risk Analytics | Business Intelligence
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishaaaal15&show_icons=true&theme=dark&hide_border=true&bg_color=0A1628&title_color=006FCF&icon_color=006FCF&text_color=BDD5EE)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Singh-006FCF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-singhdataanalyst)
+[![GitHub](https://img.shields.io/badge/GitHub-vishaaaal15-0A1628?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishaaaal15)
+[![Email](https://img.shields.io/badge/Email-vshalsngh17@gmail.com-006FCF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshalsngh17@gmail.com)
 
 Passionate Data Analyst with hands-on experience in SQL, Python, Power BI, Tableau, and Excel, specializing in Banking Analytics, Customer Intelligence, Risk Analytics, and Business Intelligence.
 
