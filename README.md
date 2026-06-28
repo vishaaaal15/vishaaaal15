@@ -1,141 +1,35 @@
-![Vishal Singh - Risk Analyst](vishal_github_banner.png)
-## Data Analyst | Banking Analytics | Risk Analytics | Business Intelligence
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishaaaal15&show_icons=true&theme=dark&hide_border=true&bg_color=0A1628&title_color=006FCF&icon_color=006FCF&text_color=BDD5EE)
+![Banner](vishal_github_banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Singh-006FCF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-singhdataanalyst)
-[![GitHub](https://img.shields.io/badge/GitHub-vishaaaal15-0A1628?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishaaaal15)
-[![Email](https://img.shields.io/badge/Email-vshalsngh17@gmail.com-006FCF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshalsngh17@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vshalsngh17%40gmail.com-006FCF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshalsngh17@gmail.com)
 
-Passionate Data Analyst with hands-on experience in SQL, Python, Power BI, Tableau, and Excel, specializing in Banking Analytics, Customer Intelligence, Risk Analytics, and Business Intelligence.
-
-I build end-to-end analytics solutions that transform raw data into actionable business insights through data modeling, KPI reporting, dashboard development, and advanced analytical storytelling.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishaaaal15&show_icons=true&theme=dark&hide_border=true&bg_color=0A1628&title_color=006FCF&icon_color=006FCF&text_color=BDD5EE)
 
 ---
 
-## Professional Summary
+## 📊 Featured Projects & Live Dashboards
 
-- Skilled in SQL, Python, Power BI, Tableau, and Advanced Excel.
-- Experienced in Banking Analytics, Credit Risk Analytics, Customer Analytics, AML Monitoring, and Campaign Performance Analysis.
-- Strong foundation in data preparation, reporting automation, KPI tracking, and business intelligence.
-- Passionate about solving real-world business problems using data-driven decision-making.
-- Focused on building executive-level analytics solutions aligned with financial services and enterprise analytics domains.
-
----
-
-## Technical Skills
-
-### Analytics & Visualization
-
-- Power BI
-- Tableau
-- Microsoft Excel
-- Data Storytelling
-- Dashboard Development
-- KPI Reporting
-
-### Programming & Data
-
-- SQL
-- Python
-- Pandas
-- NumPy
-- Data Cleaning
-- Data Transformation
-
-### Business Analytics
-
-- Customer Analytics
-- Credit Risk Analytics
-- Loan Portfolio Analytics
-- AML Monitoring
-- Campaign Analytics
-- Customer Segmentation
-- Data Governance
-- Business Intelligence
+| Project | Tools | Live Dashboard |
+|---|---|---|
+| 🏦 Credit Risk & Loan Portfolio | SQL · Python · Power BI | [View →](#) |
+| 🔍 AML Transaction Monitoring | SQL · Python · Power BI | [View →](#) |
+| 📉 Loan Default Risk Analysis | SQL · Python · Power BI | [View →](#) |
+| 📊 Customer Campaign Analytics | SQL · Python · Tableau | [View →](#) |
+| 👥 Retail Banking Insights | SQL · Python · Power BI | [View →](#) |
+| 🛡️ Data Quality & Governance | SQL · Python · Tableau | [View →](#) |
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Skills
 
-### 🏦 [Enterprise Credit Risk & Loan Portfolio Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Credit-Risk-Loan-Portfolio-Intelligence-Platform)
+**Risk & Analytics:** Credit Risk · AML Monitoring · Fraud Detection · KRI Development · Data Governance
 
-- Analyzed 100,000+ customer loan records across retail lending portfolios.
-- Evaluated ₹850M+ loan exposure to identify portfolio concentration risks.
-- Developed 20+ SQL risk analysis queries and executive dashboards.
-- Delivered insights supporting credit risk mitigation and portfolio optimization.
+**Technical:** SQL (Advanced) · Python · Power BI · Tableau · Excel · Scikit-learn · MySQL · Git
 
 ---
 
-### 🔍 [Banking Transaction Intelligence & AML Monitoring Platform](https://github.com/vishaaaal15/Banking-Transaction-Intelligence-AML-Monitoring-Platform)
+## 📍 About
 
-- Processed 500,000+ banking transactions across multiple payment channels.
-- Evaluated ₹1.2B+ transaction volume for compliance and AML monitoring.
-- Developed 25+ SQL investigative queries to identify suspicious activity patterns.
-- Built executive dashboards supporting fraud detection and compliance reporting.
+Data & Risk Analyst specialising in Banking Analytics, Credit Risk, AML Monitoring, and Fraud Detection across 250K–500K+ financial records. Building end-to-end analytics solutions for BFSI — from raw data to executive dashboards.
 
----
-
-### 📉 [Executive Loan Default Risk Analysis Dashboard](https://github.com/vishaaaal15/Executive-Loan-Default-Risk-Analysis-Dashboard)
-
-- Analyzed 50,000+ borrower profiles to assess default probability and lending performance.
-- Evaluated ₹400M+ loan exposure across multiple customer segments.
-- Built risk dashboards tracking repayment behavior, delinquency trends, and portfolio quality.
-
----
-
-### 📊 [Customer Campaign Performance Analytics Platform](https://github.com/vishaaaal15/Customer-Campaign-Performance-Analytics-Platform)
-
-- Analyzed 100,000 customer interactions across 50 marketing campaigns.
-- Evaluated ₹71.46M revenue contribution through campaign performance analysis.
-- Built Power BI and Tableau dashboards monitoring engagement, conversion, and campaign ROI.
-
----
-
-### 👥 [Retail Banking Customer Insights Platform](https://github.com/vishaaaal15/Retail-Banking-Customer-Insights-Platform)
-
-- Analyzed 100,000+ retail banking customer profiles.
-- Evaluated ₹500M+ deposits and ₹300M+ lending exposure.
-- Identified customer segments, product adoption trends, and cross-sell opportunities.
-
----
-
-### 🛡️ [Enterprise Data Quality & Governance Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Data-Quality-Governance-Intelligence-Platform)
-
-- Assessed 1M+ enterprise records across multiple business domains.
-- Developed 30+ SQL validation frameworks for data quality monitoring.
-- Built governance dashboards tracking accuracy, completeness, and compliance metrics.
-
-## Project Portfolio Focus
-
-My portfolio is centered around:
-
-- Banking Analytics
-- Risk Analytics
-- Customer Analytics
-- Business Intelligence
-- Campaign Analytics
-- Data Governance
-- Executive Reporting
-- Data Visualization
-
----
-
-## Current Focus
-
-- Advanced SQL for Analytics
-- Customer Churn Analytics
-- Banking Risk Analytics
-- Fraud & AML Analytics
-- Business Intelligence Solutions
-- Enterprise Dashboard Development
-
----
-
-## Connect With Me
-
-- LinkedIn: www.linkedin.com/in/vishal-singhdataanalyst
-- GitHub: https://github.com/vishaaaal15
-
----
-
-### Turning Data Into Actionable Business Insights 📈
+📍 Pune, Maharashtra · Open to Risk Analyst roles
