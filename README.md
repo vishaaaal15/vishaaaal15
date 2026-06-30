@@ -1,43 +1,67 @@
-<h1 align="center">Hi, I'm Vishal Singh 👋</h1>
-<h3 align="center">Data Analyst | Turning large, messy data into decisions that move the business</h3>
+# Hi, I'm Vishal Singh
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishal-singhdataanalyst"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:vshalsngh17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+## Data Analyst | Banking Analytics | Risk Analytics | Business Intelligence
 
----
+Data Analyst with hands-on experience in SQL, Python, Power BI, Tableau, and Excel, specializing in Banking Analytics, Credit Risk, AML Monitoring, and Customer Analytics.
 
-### 🧭 About Me
-I'm a Data Analyst based in Bengaluru, India, focused on **credit risk, AML/fraud, data quality, and digital marketing analytics**. I work end-to-end — from SQL data extraction and Python analysis to Power BI/Tableau dashboards that stakeholders actually use to make decisions. I analyzed 1M+ financial records during my internship and built 6 dashboards tracking 16 KPIs that senior leadership now uses for weekly reporting.
-
-### 🛠️ Tech Stack
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+I build end-to-end analytics solutions that turn raw data into decision-ready insights — through data modeling, KPI reporting, dashboard development, and analytical storytelling.
 
 ---
 
-### 📌 Featured Projects
-
-**🏦 [Enterprise Credit Risk & Loan Portfolio Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Credit-Risk-Loan-Portfolio-Intelligence-Platform)**
-500K+ loan records · ₹850M+ exposure analyzed · ₹147M+ at-risk exposure identified · Logistic regression (AUC 0.82) · 21 SQL queries, 21 KRIs across 3 Power BI dashboards.
-
-**🔍 [Banking Transaction Intelligence & AML Monitoring Platform](https://github.com/vishaaaal15/Banking-Transaction-Intelligence-AML-Monitoring-Platform)**
-250K+ transactions · ₹1.2B+ volume · 847 suspicious transactions flagged, 23 AML escalations · Z-score + IQR anomaly detection · Reduced manual compliance review time by 35%.
-
-**📈 [Digital Marketing & Customer Analytics Platform](https://github.com/vishaaaal15/Digital-Marketing-Customer-Analytics-Platform)**
-180K+ customers, ₹3.72 Cr ad spend analyzed · Identified Email as most efficient channel (540% ROI) vs. Display (-67% ROI) · RFM segmentation: top 25.8% of customers drive 41.6% of revenue.
-
-**🧹 [Enterprise Data Quality & Governance Platform](https://github.com/vishaaaal15/Enterprise-Data-Quality-Governance-Intelligence-Platform)**
-300K+ records · Resolved 4,312 duplicates & 1,847 referential integrity failures · Improved DQ score 71% → 82.4% · Cut incident detection time by 60%.
+## Professional Summary
+- Skilled in SQL (Advanced), Python, Power BI, Tableau, and Advanced Excel.
+- Experienced in Banking Analytics, Credit Risk Analytics, Customer Analytics, AML Monitoring, and Campaign Performance Analysis.
+- Strong foundation in data preparation, reporting automation, KPI tracking, and business intelligence.
+- Focused on building analytics solutions aligned with financial services and risk/compliance domains.
 
 ---
 
-### 📫 Let's Connect
-Open to Data Analyst / Data Scientist roles — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vishal-singhdataanalyst) or [email](mailto:vshalsngh17@gmail.com).
+## Technical Skills
+
+**Analytics & Visualization:** Power BI · Tableau · Microsoft Excel · Dashboard Development · KPI Reporting
+**Programming & Data:** SQL · Python · Pandas · NumPy · Scikit-learn · Data Cleaning · Data Transformation
+**Business Analytics:** Credit Risk Analytics · Loan Portfolio Analytics · AML Monitoring · Campaign Analytics · Customer Segmentation · Data Governance
+
+---
+
+## Featured Projects
+
+### 🏦 [Enterprise Credit Risk & Loan Portfolio Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Credit-Risk-Loan-Portfolio-Intelligence-Platform)
+- Analyzed 500,000+ loan records · ₹850M+ exposure
+- Identified ₹147M+ at-risk exposure across 3 high-default segments
+- Built 21 SQL queries and 21 KRIs across 3 Power BI dashboards
+- Logistic regression model for default prediction (AUC: 0.82)
+
+### 🔍 [Banking Transaction Intelligence & AML Monitoring Platform](https://github.com/vishaaaal15/Banking-Transaction-Intelligence-AML-Monitoring-Platform)
+- Processed 250,000+ transactions · ₹1.2B+ volume
+- Flagged 847 suspicious transactions and 23 AML escalation accounts
+- Built 4 executive Power BI dashboards for AML and compliance reporting
+
+### 🛡️ [Enterprise Data Quality & Governance Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Data-Quality-Governance-Intelligence-Platform)
+- Assessed 300,000+ enterprise records
+- Resolved 4,312 duplicates and 1,847 referential integrity failures
+- Improved data quality score from 71% to 82.4%; cut incident detection time by 60%
+
+### 📊 [Digital Marketing & Customer Analytics Platform](https://github.com/vishaaaal15/Customer-Campaign-Performance-Analytics-Platform)
+- Analyzed 180,000+ customer records · ₹3.72 Cr ad spend across 12 campaigns
+- Identified Email as top channel (₹659 CAC, 540% ROI) vs. Display (-67% ROI)
+- RFM segmentation on 9,505 customers; high-value segment driving 41.6% of revenue
+
+### 📉 [Executive Loan Default Risk Analysis Dashboard](https://github.com/vishaaaal15/Executive-Loan-Default-Risk-Analysis-Dashboard)
+- Analyzed 50,000+ borrower profiles · ₹400M+ exposure
+- Dashboards tracking delinquency trends and portfolio quality
+
+### 👥 [Retail Banking Customer Insights Platform](https://github.com/vishaaaal15/Retail-Banking-Customer-Insights-Platform)
+- Analyzed 100,000+ retail customer profiles · ₹500M+ deposits, ₹300M+ lending exposure
+- Customer segmentation and cross-sell opportunity analysis
+
+---
+
+## Current Focus
+- Advanced SQL for Analytics
+- Banking & Fraud/AML Analytics
+- Business Intelligence & Enterprise Dashboards
+
+## Connect With Me
+- LinkedIn: [vishal-singhdataanalyst](http://www.linkedin.com/in/vishal-singhdataanalyst)
+- GitHub: [vishaaaal15](https://github.com/vishaaaal15)
