@@ -1,67 +1,48 @@
 # Hi, I'm Vishal Singh
 
-## Data Analyst | Banking Analytics | Risk Analytics | Business Intelligence
+**Data Analyst | Banking Analytics · Risk Analytics · Customer Analytics · Business Intelligence**
 
-Data Analyst with hands-on experience in SQL, Python, Power BI, Tableau, and Excel, specializing in Banking Analytics, Credit Risk, AML Monitoring, and Customer Analytics.
-
-I build end-to-end analytics solutions that turn raw data into decision-ready insights — through data modeling, KPI reporting, dashboard development, and analytical storytelling.
+I build analytics solutions for banking and financial services use cases — combining SQL, Python, and BI tools to turn raw transactional and portfolio data into KPIs, risk signals, and executive-ready dashboards.
 
 ---
 
-## Professional Summary
-- Skilled in SQL (Advanced), Python, Power BI, Tableau, and Advanced Excel.
-- Experienced in Banking Analytics, Credit Risk Analytics, Customer Analytics, AML Monitoring, and Campaign Performance Analysis.
-- Strong foundation in data preparation, reporting automation, KPI tracking, and business intelligence.
-- Focused on building analytics solutions aligned with financial services and risk/compliance domains.
+## Skills
+
+**Analytics & BI:** Power BI · Tableau · Microsoft Excel · Dashboard Development · KPI Reporting · Data Storytelling
+**Programming & Data:** SQL · Python (Pandas, NumPy, Scikit-learn) · Data Cleaning · Feature Engineering
+**Domain:** Credit Risk Analytics · Loan Portfolio Monitoring · AML/Transaction Monitoring · Customer Segmentation · Campaign Analytics · Data Governance
 
 ---
 
-## Technical Skills
+## Featured Project
 
-**Analytics & Visualization:** Power BI · Tableau · Microsoft Excel · Dashboard Development · KPI Reporting
-**Programming & Data:** SQL · Python · Pandas · NumPy · Scikit-learn · Data Cleaning · Data Transformation
-**Business Analytics:** Credit Risk Analytics · Loan Portfolio Analytics · AML Monitoring · Campaign Analytics · Customer Segmentation · Data Governance
-
----
-
-## Featured Projects
-
-### 🏦 [Enterprise Credit Risk & Loan Portfolio Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Credit-Risk-Loan-Portfolio-Intelligence-Platform)
-- Analyzed 500,000+ loan records · ₹850M+ exposure
-- Identified ₹147M+ at-risk exposure across 3 high-default segments
-- Built 21 SQL queries and 21 KRIs across 3 Power BI dashboards
-- Logistic regression model for default prediction (AUC: 0.82)
-
-### 🔍 [Banking Transaction Intelligence & AML Monitoring Platform](https://github.com/vishaaaal15/Banking-Transaction-Intelligence-AML-Monitoring-Platform)
-- Processed 250,000+ transactions · ₹1.2B+ volume
-- Flagged 847 suspicious transactions and 23 AML escalation accounts
-- Built 4 executive Power BI dashboards for AML and compliance reporting
-
-### 🛡️ [Enterprise Data Quality & Governance Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Data-Quality-Governance-Intelligence-Platform)
-- Assessed 300,000+ enterprise records
-- Resolved 4,312 duplicates and 1,847 referential integrity failures
-- Improved data quality score from 71% to 82.4%; cut incident detection time by 60%
-
-### 📊 [Digital Marketing & Customer Analytics Platform](https://github.com/vishaaaal15/Customer-Campaign-Performance-Analytics-Platform)
-- Analyzed 180,000+ customer records · ₹3.72 Cr ad spend across 12 campaigns
-- Identified Email as top channel (₹659 CAC, 540% ROI) vs. Display (-67% ROI)
-- RFM segmentation on 9,505 customers; high-value segment driving 41.6% of revenue
-
-### 📉 [Executive Loan Default Risk Analysis Dashboard](https://github.com/vishaaaal15/Executive-Loan-Default-Risk-Analysis-Dashboard)
-- Analyzed 50,000+ borrower profiles · ₹400M+ exposure
-- Dashboards tracking delinquency trends and portfolio quality
-
-### 👥 [Retail Banking Customer Insights Platform](https://github.com/vishaaaal15/Retail-Banking-Customer-Insights-Platform)
-- Analyzed 100,000+ retail customer profiles · ₹500M+ deposits, ₹300M+ lending exposure
-- Customer segmentation and cross-sell opportunity analysis
+### [Enterprise Credit Risk & Loan Portfolio Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Credit-Risk-Loan-Portfolio-Intelligence-Platform)
+End-to-end credit risk analytics project on a simulated 500,000+ record retail lending portfolio (₹850M+ exposure).
+- Wrote 21 SQL queries for risk segmentation, delinquency trends, and exposure concentration.
+- Identified 3 high-default customer segments covering ₹147M+ of at-risk exposure.
+- Trained a logistic regression model (AUC: 0.82, 80/20 stratified train-test split) to flag default probability; credit utilization, prior delinquency, and credit score were the strongest predictors.
+- Tracked 21 Key Risk Indicators across 3 Power BI dashboards.
+- Documented data assumptions and limitations to keep the analysis auditable.
 
 ---
 
-## Current Focus
-- Advanced SQL for Analytics
-- Banking & Fraud/AML Analytics
-- Business Intelligence & Enterprise Dashboards
+## Other Projects
 
-## Connect With Me
-- LinkedIn: [vishal-singhdataanalyst](http://www.linkedin.com/in/vishal-singhdataanalyst)
-- GitHub: [vishaaaal15](https://github.com/vishaaaal15)
+- **[Banking Transaction Intelligence & AML Monitoring Platform](https://github.com/vishaaaal15/Banking-Transaction-Intelligence-AML-Monitoring-Platform)** — 500,000+ transactions, ₹1.2B+ volume, 25+ investigative SQL queries for suspicious-activity detection and compliance reporting.
+- **[Executive Loan Default Risk Analysis Dashboard](https://github.com/vishaaaal15/Executive-Loan-Default-Risk-Analysis-Dashboard)** — 50,000+ borrower profiles, ₹400M+ exposure, dashboards tracking repayment behavior and delinquency trends.
+- **[Customer Campaign Performance Analytics Platform](https://github.com/vishaaaal15/Customer-Campaign-Performance-Analytics-Platform)** — 100,000 customer interactions across 50 campaigns, ₹71M+ revenue analyzed, Power BI and Tableau dashboards on engagement and conversion.
+- **[Retail Banking Customer Insights Platform](https://github.com/vishaaaal15/Retail-Banking-Customer-Insights-Platform)** — 100,000+ customer profiles, ₹500M+ deposits, segment and cross-sell analysis.
+- **[Enterprise Data Quality & Governance Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Data-Quality-Governance-Intelligence-Platform)** — 1M+ records, 30+ SQL validation frameworks for data quality monitoring.
+
+---
+
+## Currently Working On
+
+Strengthening predictive modeling (churn, fraud risk) on top of existing BI dashboards, and bringing the rest of my projects up to the same documentation standard as my featured one — real validation methodology, accurate repo structure, and honest limitations sections.
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/vishal-singhdataanalyst](http://www.linkedin.com/in/vishal-singhdataanalyst)
+- GitHub: [github.com/vishaaaal15](https://github.com/vishaaaal15)
