@@ -26,10 +26,10 @@ I'm a Data Analyst based in Bengaluru, India, focused on **credit risk, AML/frau
 ### 📌 Featured Projects
 
 **🏦 [Enterprise Credit Risk & Loan Portfolio Intelligence Platform](https://github.com/vishaaaal15/Enterprise-Credit-Risk-Loan-Portfolio-Intelligence-Platform)**
-500K+ loan records · ₹147M+ at-risk exposure identified · Logistic regression (AUC 0.82) for default prediction · 21 SQL queries, 21 KRIs across 3 Power BI dashboards.
+500K+ loan records · ₹850M+ exposure analyzed · ₹147M+ at-risk exposure identified · Logistic regression (AUC 0.82) · 21 SQL queries, 21 KRIs across 3 Power BI dashboards.
 
 **🔍 [Banking Transaction Intelligence & AML Monitoring Platform](https://github.com/vishaaaal15/Banking-Transaction-Intelligence-AML-Monitoring-Platform)**
-250K+ transactions · 847 suspicious transactions flagged, 23 AML escalations · Z-score + IQR anomaly detection · Reduced manual compliance review time by 35%.
+250K+ transactions · ₹1.2B+ volume · 847 suspicious transactions flagged, 23 AML escalations · Z-score + IQR anomaly detection · Reduced manual compliance review time by 35%.
 
 **📈 [Digital Marketing & Customer Analytics Platform](https://github.com/vishaaaal15/Digital-Marketing-Customer-Analytics-Platform)**
 180K+ customers, ₹3.72 Cr ad spend analyzed · Identified Email as most efficient channel (540% ROI) vs. Display (-67% ROI) · RFM segmentation: top 25.8% of customers drive 41.6% of revenue.
