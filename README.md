@@ -55,7 +55,7 @@ A synthetic-data application designed to support analysts reviewing suspicious t
 
 **Core technologies:** React, TypeScript, Node.js, Express, Gemini API, PDFKit.
 
-🔗 [View my GitHub repositories](https://github.com/vishaaaal15) · [View Portfolio](https://vishal-singh-data-and-ai-analyst-po.vercel.app/)
+🔗 [View my GitHub repositories](https://github.com/vishaaaal15/AML-Investigation-Workbench-) · [View Portfolio](https://vishal-singh-data-and-ai-analyst-po.vercel.app/)
 
 ### 2. Enterprise Credit Risk & Loan Portfolio Analytics
 
