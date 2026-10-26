@@ -98,7 +98,7 @@ A dashboard project focused on market-data exploration, trend analysis, and visu
 
 A business intelligence project focused on hospitality performance metrics, operational trends, and dashboard-based insights.
 
-🔗 [Explore my repositories](https://github.com/vishaaaal15)
+🔗 [Explore my repositories](https://github.com/vishaaaal15/Hospitality-Analysis-Dashboard)
 
 ---
 
