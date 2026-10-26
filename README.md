@@ -92,7 +92,7 @@ A marketing analytics project focused on campaign performance, customer response
 
 A dashboard project focused on market-data exploration, trend analysis, and visual reporting.
 
-🔗 [Explore my repositories](https://github.com/vishaaaal15)
+🔗 [Explore my repositories](https://github.com/vishaaaal15/Stock-Market-Analysis-Dashboard)
 
 ### 6. Hospitality Analytics Dashboard
 
