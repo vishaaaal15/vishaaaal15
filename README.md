@@ -86,7 +86,7 @@ A marketing analytics project focused on campaign performance, customer response
 - Compare campaign performance indicators.
 - Present insights through SQL and business intelligence workflows.
 
-🔗 [Explore my repositories](https://github.com/vishaaaal15)
+🔗 [Explore my repositories](https://github.com/vishaaaal15/Customer-Campaign-Performance-Analytics-Platform)
 
 ### 5. Stock Market Analysis Dashboard
 
