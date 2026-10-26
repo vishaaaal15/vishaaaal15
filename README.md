@@ -1,4 +1,4 @@
-# Hi, I'm Vishal Singh 👋
+# Hi, I'm Vishal Singh 
 
 ### Data Analyst | Data Scientist | Risk Analytics | Generative AI
 
