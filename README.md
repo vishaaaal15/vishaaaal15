@@ -75,7 +75,8 @@ A banking analytics project focused on transaction-level analysis, financial rep
 - Structure reporting outputs for business and risk stakeholders.
 - Communicate findings through dashboard-driven reporting.
 
-🔗 [Explore my repositories](https://github.com/vishaaaal15)
+🔗 [Explore my repositories](https://github.com/vishaaaal15/Banking-Transaction-Intelligence-AML-Monitoring-Platform)
+
 
 ### 4. Customer Campaign Performance Analytics
 
