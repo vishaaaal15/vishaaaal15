@@ -65,7 +65,7 @@ A risk-analytics project focused on exploring loan portfolios, identifying risk 
 - Present findings through business-oriented visualizations.
 - Support data-driven credit-risk analysis.
 
-🔗 [Explore my repositories](https://github.com/vishaaaal15)
+🔗 [Explore my repositories](https://github.com/vishaaaal15/Enterprise-Credit-Risk-Loan-Portfolio-Intelligence-Platform)
 
 ### 3. Banking Transaction Risk & Financial Reporting
 
