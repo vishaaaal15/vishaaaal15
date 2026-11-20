@@ -17,7 +17,7 @@ I build data-driven solutions that turn complex data into actionable business in
 ## About Me
 
 - 🎓 B.Tech in Computer Science & Engineering — 2025
-- 📊 9 months of internship experience at ExcelR, focused on data analytics and business intelligence
+- 📊 14 months of internship experience at ExcelR, focused on data analytics and business intelligence
 - 🏦 Interested in financial services, risk analytics, transaction monitoring, and compliance intelligence
 - 🤖 Building practical AI-assisted workflows with an emphasis on evidence, validation, and human oversight
 - 📈 Enjoy working with Python, SQL, dashboards, data quality, and analytical problem-solving
